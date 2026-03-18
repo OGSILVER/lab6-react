@@ -1,0 +1,14 @@
+.letter{
+    height: 75px;
+    width: 50px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin: 10px;
+}
+
+.guessed{
+    background-color: lightgray;
+}

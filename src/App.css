@@ -1,0 +1,14 @@
+.keyboard{
+    width: 61%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.guessed-word{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    gap: 10px;
+    font-size: 50px;
+}

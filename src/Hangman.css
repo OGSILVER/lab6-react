@@ -1,0 +1,7 @@
+.hangman{
+    padding-left: 50px;
+    height: 300px;
+    img{
+        height: 100%;
+    }
+}
